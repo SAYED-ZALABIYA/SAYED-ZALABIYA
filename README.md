@@ -1,4 +1,4 @@
-- 👋 Hello, I am @SAYED dumpling
+- 👋 Hello, I am SAYED 
 - 👀 I am interested in artificial intelligence, machine learning, deep learning and neural networks 
 - 🌱 I am currently studying at the Faculty of Accounts and Information, Computer Science Division, El Shorouk Academy - Cairo - Egypt 
 - 💞️ I'm looking forward to collaborating on AI
