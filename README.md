@@ -1,19 +1,21 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Elsayed Abd El Rahman Mohammed</h1>
 <h3 align="center">Machine Learning Engineer | Data Analysis & Predictive Modeling Expert | Certified by IBM & Deep Learning.AI & Google Cloud</h3>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0")
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed-zalabiya&label=Profile%20views&color=0e75b6&style=flat" alt="sayed-zalabiya" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayed-zalabiya" alt="sayed-zalabiya" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 ---
-
 ## ✨ About Me
 
-🎓 A dedicated Computer Science graduate from El-Shorouk Academy with a passion for applying Machine Learning to impactful, real-world problems. I specialize in predictive modeling, data preprocessing, model explainability (SHAP), and AI for sustainability.
+🎓 A dedicated Computer Science graduate from El-Shorouk Academy with a passion for applying Machine Learning to impactful, real-world problems.
+I specialize in predictive modeling, data preprocessing, model explainability (SHAP), and AI for sustainability.  <p align="right">
+  <img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" alt="Coding" width="600" />
+</p>
 
 📚 I’ve authored a peer-reviewed research paper and completed several certifications from IBM, Google Cloud, and DeepLearning.AI. I'm always eager to learn, share knowledge, and build intelligent systems that serve communities.
 
@@ -95,9 +97,6 @@ Each course deepened my understanding and sharpened my practical skills in data 
 
 ---
 
-* Writing plans: Preparing a technical content series on practical machine learning topics (soon to be published).
-* Experience & Background: [LinkedIn](https://www.linkedin.com/in/elsayed-nassar-56a669237)
-* ⚡ Fun fact: Built a cybersecurity system (CyberScope AI) that detects network attacks and classifies threats using ML.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -110,40 +109,6 @@ Each course deepened my understanding and sharpened my practical skills in data 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayed-zalabiya&show_icons=true&locale=en&layout=compact" alt="sayed-zalabiya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayed-zalabiya&show_icons=true&locale=en" alt="sayed-zalabiya" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayed-zalabiya&" alt="sayed-zalabiya" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
