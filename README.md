@@ -6,7 +6,10 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed-zalabiya&label=Profile%20views&color=0e75b6&style=flat" alt="sayed-zalabiya" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayed-zalabiya" alt="sayed-zalabiya" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+<a href="https://github.com/SAYED-ZALABIYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="mailto:elsayednassare525@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
+</p>
 
 
 
