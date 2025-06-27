@@ -1,62 +1,46 @@
-# 👋 Hi, I'm Elsayed Abd El Rahman Mohammed
+<h1 align="center">👋 Hello, I'm Elsayed Abd El Rahman Mohammed</h1>
+<p align="center">
+  🎓 Recent Computer Science Graduate | 🤖 Machine Learning Enthusiast | 🌱 AI for Agriculture Advocate
+</p>
 
-🎓 A recent Computer Science graduate from El-Shorouk Academy, passionate about Machine Learning, data-driven problem solving, and real-world AI applications.
-
-## 🚀 About Me
-
-I'm a machine learning enthusiast with hands-on experience in building intelligent systems that create value. My academic background is complemented by several professional certifications and a strong graduation project that tackles agricultural challenges in Egypt.
-
-Currently, I'm exploring opportunities to apply my skills in impactful projects and collaborative teams.
-
----
-
-## 🧠 My Graduation Project
-
-**🌾 Intelligent Crop Recommendation System using Random Forest**
-
-- Designed a machine learning model to recommend optimal crops based on soil and environmental factors.
-- Aimed at boosting agricultural efficiency and decision-making for Egyptian farmers.
-- Built using Python, Pandas, Scikit-learn, and Jupyter Notebooks.
-- The research paper based on this project has been authored and submitted for academic publishing.
+<p align="center">
+  <a href="mailto:elsayed.abdelrahman.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/elsayed-abdelrahman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Machine Learning-Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
+</p>
 
 ---
 
-## 📜 Certifications
+## 🌟 About Me
 
-I’ve completed several world-class Machine Learning certifications to strengthen both theoretical and practical understanding:
+I’m a passionate and driven Machine Learning practitioner with a strong academic foundation and a keen interest in solving real-world problems — especially in the fields of agriculture, sustainability, and data science.
 
-- [x] IBM Machine Learning Specialization (Coursera)
-- [x] Google Cloud Machine Learning with TensorFlow
-- [x] DeepLearning.AI: Machine Learning Fundamentals
+As a recent graduate from **El-Shorouk Academy (Computer Science Department)**, I’ve completed several professional certifications and built intelligent systems that blend technology with social impact. I'm currently expanding my ML portfolio while preparing to publish my first research paper.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧠 Graduation Project & Research
 
-- Python, NumPy, Pandas, Scikit-learn
-- Jupyter Notebook, Google Colab
-- Git & GitHub
-- Visual Studio Code
-- Basic experience with TensorFlow & Keras
+**🌾 Crop Recommendation System Using Machine Learning (Random Forest)**  
+My graduation project focuses on enhancing agricultural decision-making in Egypt. By analyzing environmental and soil data, the model recommends the most suitable crops to grow — boosting yield, reducing waste, and empowering farmers.
 
----
-
-## 📈 What I'm Working On
-
-- Publishing my research paper.
-- Building ML mini-projects & datasets analysis.
-- Creating content for a technical series on Machine Learning topics.
+🔍 **Key Highlights**:
+- Built using Python, Pandas, Scikit-learn.
+- Achieved strong accuracy with Random Forest classifier.
+- Authored a research paper based on the project, currently under academic review.
+- Aligned with Egypt’s vision for digital agriculture and sustainability.
 
 ---
 
-## 📫 How to Reach Me
+## 🏅 Certifications
 
-- 📧 Email: elsayed.abdelrahman.dev@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/elsayed-abdelrahman](https://www.linkedin.com/in/elsayed-abdelrahman)
-- 🧠 GitHub: [github.com/your-username](https://github.com/your-username) <!-- Replace this with your actual username -->
+I've earned globally recognized certifications from top institutions:
+
+- 📘 IBM Machine Learning Specialization (Coursera)
+- ☁️ Google Cloud: Machine Learning with TensorFlow
+- 📚 DeepLearning.AI: Machine Learning Foundations
 
 ---
 
-## 📌 Fun Fact
+## 🧰 Tech Stack & Tools
 
-I love using AI to solve real-world problems — especially those that improve lives and support sustainable development 🌍.
