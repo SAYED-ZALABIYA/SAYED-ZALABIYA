@@ -1,42 +1,62 @@
-<h1 align="center">Hi 👋, I'm Elsayed Abd El Rahman a.k.a <span style="color:#6C63FF;">ML4Impact</span></h1>
+# 👋 Hi, I'm Elsayed Abd El Rahman Mohammed
 
-<p align="center">
-  <b>Machine Learning Engineer from Egypt 🇪🇬</b><br>
-  Passionate about AI for Agriculture, Data Science, and Predictive Modeling<br>
-  Open to freelance, research, and ML collaborations 🤝
-</p>
+🎓 A recent Computer Science graduate from El-Shorouk Academy, passionate about Machine Learning, data-driven problem solving, and real-world AI applications.
 
----
+## 🚀 About Me
 
-## 🛠️ Languages and Tools
+I'm a machine learning enthusiast with hands-on experience in building intelligent systems that create value. My academic background is complemented by several professional certifications and a strong graduation project that tackles agricultural challenges in Egypt.
 
-| Cloud | Scripting | ML/DS Tools |
-|-------|-----------|-------------|
-| <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/> | <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="40"/> |
-| <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40"/> | <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-jupyter-a-browser-based-interactive-computing-environment-logo-shadow-tal-revivo.png" width="40"/> | <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-colab-cloud-computing-soft-fill-soft-fill-juicy-fish.png" width="40"/> |
+Currently, I'm exploring opportunities to apply my skills in impactful projects and collaborative teams.
 
 ---
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/205418/screenshots/7373747/media/6d4f0d79f38aebfd7a6fdcc2fd9e6e9d.gif" width="300px" alt="Working illustration">
-</p>
+## 🧠 My Graduation Project
+
+**🌾 Intelligent Crop Recommendation System using Random Forest**
+
+- Designed a machine learning model to recommend optimal crops based on soil and environmental factors.
+- Aimed at boosting agricultural efficiency and decision-making for Egyptian farmers.
+- Built using Python, Pandas, Scikit-learn, and Jupyter Notebooks.
+- The research paper based on this project has been authored and submitted for academic publishing.
 
 ---
 
 ## 📜 Certifications
 
-- ✅ IBM Machine Learning (Supervised/Unsupervised)
-- ✅ Google Cloud: Production ML Systems
-- ✅ DeepLearning.AI: Regression & Classification
+I’ve completed several world-class Machine Learning certifications to strengthen both theoretical and practical understanding:
+
+- [x] IBM Machine Learning Specialization (Coursera)
+- [x] Google Cloud Machine Learning with TensorFlow
+- [x] DeepLearning.AI: Machine Learning Fundamentals
 
 ---
 
-## 📬 Get in Touch
+## 🛠️ Tech Stack & Tools
 
-📧 Email: elsayednassare525@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/elsayed-nassar-56a669237](https://linkedin.com/in/elsayed-nassar-56a669237)  
-🐙 GitHub: [github.com/SAYED-ZALABIYA](https://github.com/SAYED-ZALABIYA)
+- Python, NumPy, Pandas, Scikit-learn
+- Jupyter Notebook, Google Colab
+- Git & GitHub
+- Visual Studio Code
+- Basic experience with TensorFlow & Keras
 
 ---
 
-<p align="center"><i>“AI is not here to replace us — it's here to empower us.”</i></p>
+## 📈 What I'm Working On
+
+- Publishing my research paper.
+- Building ML mini-projects & datasets analysis.
+- Creating content for a technical series on Machine Learning topics.
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: elsayed.abdelrahman.dev@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/elsayed-abdelrahman](https://www.linkedin.com/in/elsayed-abdelrahman)
+- 🧠 GitHub: [github.com/your-username](https://github.com/your-username) <!-- Replace this with your actual username -->
+
+---
+
+## 📌 Fun Fact
+
+I love using AI to solve real-world problems — especially those that improve lives and support sustainable development 🌍.
