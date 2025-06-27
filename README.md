@@ -100,15 +100,6 @@ Each course deepened my understanding and sharpened my practical skills in data 
 
 ---
 
-## 📢 Let’s Connect!
-
-* 📧 Email: [elsayednassare525@gmail.com](mailto:elsayednassare525@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/elsayed-nassar-56a669237](https://www.linkedin.com/in/elsayed-nassar-56a669237)
-* 🫠 GitHub: [github.com/SAYED-ZALABIYA](https://github.com/SAYED-ZALABIYA)
-
-> “AI is not just about automation — it's about solving meaningful problems with intelligence and intention.”
-
----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/elsayed8nassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elsayed8nassar" height="30" width="40" /></a>
