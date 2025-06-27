@@ -108,6 +108,13 @@ Each course deepened my understanding and sharpened my practical skills in data 
 <a href="https://kaggle.com/elsayed8nassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elsayed8nassar" height="30" width="40" /></a>
 <a href="https://fb.com/elsayednassar(abotammam)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elsayednassar(abotammam)" height="30" width="40" /></a>
 <a href="https://discord.gg/sayednassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sayednassar" height="30" width="40" /></a>
+<a href="mailto:elsayednassare525@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" />
+</a>
+<a href="https://github.com/SAYED-ZALABIYA" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+
 </p>
 
 
