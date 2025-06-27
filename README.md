@@ -1,26 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Elsayed Abd El Rahman Mohammed</h1>
 <h3 align="center">Machine Learning Engineer | Data Analysis & Predictive Modeling Expert | Certified by IBM & Deep Learning.AI & Google Cloud</h3>
 (img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed-zalabiya&label=Profile%20views&color=0e75b6&style=flat" alt="sayed-zalabiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayed-zalabiya" alt="sayed-zalabiya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Elsayed Abd El Rahman Mohammed</h1>
-<h3 align="center">Machine Learning Engineer | Data Analysis & Predictive Modeling Expert | Certified by IBM & Deep Learning.AI & Google Cloud</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed-zalabiya&label=Profile%20views&color=0e75b6&style=flat" alt="sayed-zalabiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayed-zalabiya" alt="sayed-zalabiya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ---
 
