@@ -1,105 +1,81 @@
-<!-- Header animated typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=👋+Hi+I'm+Elsayed+Abd+El+Rahman;🤖+Machine+Learning+Engineer+%7C+Data+Scientist;🌱+AI+for+Agriculture+%7C+Researcher;🎓+CS+Graduate+from+El-Shorouk+Academy" alt="Typing SVG" />
-</h1>
+<div align="center" style="background-color:#f5f0e6; padding: 20px; border-radius: 12px;">
 
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
-</p>
+# 👋 Welcome to My GitHub
 
----
+## I’m Elsayed Abd El Rahman Mohammed  
+**Machine Learning Engineer | Data Science Enthusiast | AI for Good Advocate**
 
-## 🌟 About Me
-
-🎓 I’m **Elsayed Abd El Rahman Mohammed**, a Computer Science graduate from El-Shorouk Academy and a certified **Machine Learning Engineer** with strong foundations in data science, predictive modeling, and applied AI.
-
-📊 I specialize in building smart, scalable, and explainable machine learning systems using tools like `Random Forest`, `SHAP`, and `GridSearchCV`.
-
-🌾 I'm the author of a peer-reviewed research paper on **sustainable agriculture using ML**, where I built a crop recommendation system for Egyptian farmers — achieving a **100% F1-score**!
+</div>
 
 ---
 
-## 📌 Quick Info
+## 🧠 Who Am I?
 
-- 🧠 **Expertise**: Supervised/Unsupervised ML, SHAP, SMOTE, Model Evaluation  
-- 🔬 **Research**: *Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt*  
-- 🛠️ **Languages/Tools**: Python, Scikit-learn, Pandas, NumPy, Jupyter, Google Colab  
-- 🎯 **Focus Areas**: AI in Agriculture, Smart Cities, Healthcare, Finance  
-- 🌐 **Certifications**: IBM, Google Cloud, DeepLearning.AI  
-- 🌍 **Languages**: Arabic (Native), English (Professional)
+🎓 **Computer Science Graduate** from *El-Shorouk Academy* with deep interest in data analysis, machine learning, and research.
 
----
+🧪 **Researcher & Author** of a peer-reviewed paper on ML-powered crop recommendation for sustainable agriculture in Egypt.
 
-## 🧪 My Graduation Project
-
-### 🌾 Crop Recommendation System using ML
-
-> A full machine learning pipeline that recommends the best crop for a given soil/environmental profile, trained on Egyptian agricultural datasets.
-
-**Techniques & Highlights**:
-- Algorithms: `Random Forest`, `SVM`, `Decision Tree`, `Linear Regression`
-- Preprocessing: `SMOTE`, `Label Encoding`, `MinMaxScaler`, `GridSearchCV`
-- Interpretability: `SHAP` for feature impact
-- Result: **F1-score = 1.00**, Validated via **5-fold cross-validation**
-
-📄 **Paper**: Peer-reviewed, pending publication.
+📈 Passionate about applying AI to real-world problems that create tangible impact in sectors like **agriculture**, **healthcare**, and **smart cities**.
 
 ---
 
-## 🎓 Certifications
+## 🧪 Graduation Project – AI for Agriculture 🌾
 
-| Platform         | Title                                                                 |
-|------------------|------------------------------------------------------------------------|
-| Google Cloud     | Production Machine Learning Systems (May 2025)                        |
-| IBM              | Supervised ML: Classification & Regression (Mar 2025)                |
-| IBM              | Unsupervised Machine Learning (Apr 2025)                              |
-| IBM              | Exploratory Data Analysis (Mar 2025)                                  |
-| DeepLearning.AI  | Regression & Classification (Apr 2025)                                |
+> **Crop Recommendation System Using Machine Learning**
 
-🔗 [View my credentials](https://www.coursera.org/user/8b1cc5cb0634da8c597a873d066c3f38)
+A full ML system trained on Egyptian agricultural data to recommend optimal crops based on soil/environmental features.
 
----
+- ✅ Algorithms: `Random Forest`, `SVM`, `Decision Tree`, `Linear Regression`
+- 🧪 Preprocessing: `SMOTE`, `MinMaxScaler`, `Label Encoding`, `GridSearchCV`
+- 🎯 Evaluation: `F1-score = 1.00`, 5-Fold CV = `99.38% accuracy`
+- 📘 Explainability: Used `SHAP` for model interpretation
 
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+🔬 *Research paper submitted and under academic review.*
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAYED-ZALABIYA&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYED-ZALABIYA&layout=compact&theme=tokyonight" width="45%"/>
-</p>
+| Course Title                                  | Provider          | Date      |
+|----------------------------------------------|-------------------|-----------|
+| Production ML Systems                        | Google Cloud      | May 2025  |
+| Supervised ML: Classification & Regression   | IBM               | Mar 2025  |
+| Unsupervised Machine Learning                | IBM               | Apr 2025  |
+| Exploratory Data Analysis                    | IBM               | Mar 2025  |
+| Regression & Classification                  | DeepLearning.AI   | Apr 2025  |
 
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAYED-ZALABIYA&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+🔗 [View Certificates on Coursera](https://www.coursera.org/user/8b1cc5cb0634da8c597a873d066c3f38)
 
 ---
 
-## 📬 Contact Me
+## 🛠 Tech Stack
 
-- 📧 Email: elsayednassare525@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/elsayed-nassar-56a669237](https://www.linkedin.com/in/elsayed-nassar-56a669237)  
-- 🧠 GitHub: [github.com/SAYED-ZALABIYA](https://github.com/SAYED-ZALABIYA)
-
----
-
-## ⚡ Bonus
-
-> “AI is not just about automation — it's about solving *meaningful* problems with *intelligence* and *intention*.”
+| Language & Tools       | ML/DS Libraries            | Platforms             |
+|------------------------|----------------------------|------------------------|
+| Python, Git, VS Code   | Scikit-learn, Pandas, NumPy| Jupyter, Colab, GCP    |
+| Matplotlib, Seaborn    | SHAP, SMOTE                | GitHub, TensorFlow     |
 
 ---
 
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAYED-ZALABIYA&show_icons=true&theme=gruvbox_light&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYED-ZALABIYA&layout=compact&theme=gruvbox_light&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 **Email**: elsayednassare525@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/elsayed-nassar-56a669237](https://www.linkedin.com/in/elsayed-nassar-56a669237)  
+- 🧠 **GitHub**: [github.com/SAYED-ZALABIYA](https://github.com/SAYED-ZALABIYA)
+
+---
+
+<div align="center">
+
+> “AI is not here to replace us — it's here to empower us.”
+
+</div>
