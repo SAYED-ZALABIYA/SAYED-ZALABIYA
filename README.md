@@ -44,3 +44,29 @@ I've earned globally recognized certifications from top institutions:
 
 ## 🧰 Tech Stack & Tools
 
+
+---
+
+## 🚀 Currently Working On
+
+- ✍️ Publishing my first ML research paper.
+- 📊 Building open-source ML mini-projects & datasets.
+- 🧵 Launching a technical content series on Machine Learning.
+
+---
+
+## 🤝 Let’s Connect
+
+I'm open to collaborations, internships, and entry-level roles in AI, ML, and Data Science fields. If you think we can create something meaningful together, feel free to reach out!
+
+📬 **Email**: elsayed.abdelrahman.dev@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/elsayed-abdelrahman](https://www.linkedin.com/in/elsayed-abdelrahman)
+
+---
+
+## 💡 Quote I Believe In
+
+> "Artificial Intelligence is not just about machines, it’s about empowering human potential."
+
+---
+
