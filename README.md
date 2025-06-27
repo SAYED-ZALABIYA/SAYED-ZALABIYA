@@ -73,13 +73,8 @@ Each course deepened my understanding and sharpened my practical skills in data 
 
 ---
 
-## 💻 Tools & Skills
+## 💻 Skills
 
-* **Languages**: Python, SQL
-* **ML Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib
-* **ML Techniques**: Cross-validation, SMOTE, SHAP, GridSearchCV
-* **Environments**: Jupyter Notebook, Google Colab, Git, GitHub, GCP
-* **Soft Skills**: Teamwork, Technical Writing, Communication
 * Python, Scikit-learn, NumPy, Pandas, Matplotlib
 * Model Evaluation: Accuracy, Precision, Recall, F1-score
 * Preprocessing: SMOTE, Label Encoding, Imputation, Scaling
