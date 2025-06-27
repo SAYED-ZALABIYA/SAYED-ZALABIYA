@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | Data Analysis & Predictive Modeling Expert | Certified by IBM & Deep Learning.AI & Google Cloud</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" />
+  <img alt="Coding" width="700" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed-zalabiya&label=Profile%20views&color=0e75b6&style=flat" alt="sayed-zalabiya" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayed-zalabiya" alt="sayed-zalabiya" /></a> </p>
@@ -11,12 +11,8 @@
 
 ---
 ## ✨ About Me
-
-🎓 A dedicated Computer Science graduate from El-Shorouk Academy with a passion for applying Machine Learning to impactful, real-world problems.
-I specialize in predictive modeling, data preprocessing, model explainability (SHAP), and AI for sustainability.  <p align="right">
-  <img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" alt="Coding" width="600" />
-</p>
-
+🎓 A dedicated Computer Science graduate from El-Shorouk Academy with a passion for applying Machine Learning to impactful, real-world problems.I specialize in predictive modeling, data preprocessing, model explainability (SHAP), and AI for sustainability.  
+ 
 📚 I’ve authored a peer-reviewed research paper and completed several certifications from IBM, Google Cloud, and DeepLearning.AI. I'm always eager to learn, share knowledge, and build intelligent systems that serve communities.
 
 🔬 My goal is to merge technology with purpose — especially in fields like agriculture, cybersecurity, and smart cities.
