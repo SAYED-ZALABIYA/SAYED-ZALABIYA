@@ -92,7 +92,7 @@ Here are some of the certifications I’m proud of:
 * 🎓 IBM: Exploratory Data Analysis  – [Verify](https://www.coursera.org/account/accomplishments/verify/PYBDIY48UJUG)
 * 🧠 DeepLearning.AI:Calculus for Machine Learning and Data Science  – [Verify](https://www.coursera.org/account/accomplishments/verify/K23V84DBYEO2)
 * ☁️ Google Cloud: Production Machine Learning Systems  – [Verify](https://www.coursera.org/account/accomplishments/verify/QBJ30E30ONMP)
----
+
 Each course deepened my understanding and sharpened my practical skills in data science and machine learning pipelines.
 
 ---
