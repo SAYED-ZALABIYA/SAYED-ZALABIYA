@@ -44,7 +44,7 @@ outperforming SVM, Decision Tree, and Linear Regression baselines.
 nutrients) influencing predictions. influencing predictions.
 *  Proposed a deployment-ready architecture for real-time agricultural decision-support systems.
 
-**Ver ify at**: Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt
+Ver ify at: [Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt](https://asc.journals.ekb.eg/article_431307.html)
 ---
 
 ## 🎓 Graduation Project – Crop Recommendation System 🌱
