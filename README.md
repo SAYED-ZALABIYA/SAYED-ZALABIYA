@@ -14,9 +14,17 @@
 
 ---
 ## ✨ About Me
-🎓 A dedicated Computer Science graduate from El-Shorouk Academy with a passion for applying Machine Learning to impactful, real-world problems.I specialize in predictive modeling, data preprocessing, model explainability (SHAP), and AI for sustainability.  
- 
-📚 I’ve authored a peer-reviewed research paper and completed several certifications from IBM, Google Cloud, and DeepLearning.AI. I'm always eager to learn, share knowledge, and build intelligent systems that serve communities.
+🎓 Versatile Machine Learning & Generative AI Engineer with multi-domain expertise spanning agriculture, 
+cybersecurity, NLP, education, and beyond. Certified by Google Cloud, IBM, DeepLearning.AI, and holder of the 
+Introduction to Generative AI Learning Path and LangChain for LLM Application Development specializations. 
+Author of a published research paper on ML-based crop recommendation for sustainable agriculture, achieving
+state-of-the-art accuracy and explainability. Proficient in building and deploying AI solutions end-to-end — from 
+data preprocessing and model training to real-world deployment on Hugging Face, Google Cloud, and Microsoft 
+Azure. Experienced in leveraging both large-scale and limited datasets to deliver accurate, explainable, and 
+production-ready models. Skilled in supervised & unsupervised learning, deep learning, natural language
+processing, model explainability (SHAP), and advanced AI pipelines. Passionate about developing scalable, ethical, 
+and high-impact AI systems across diverse industries, adapting quickly to any domain with sufficient data 
+availability.  
 
 🔬 My goal is to merge technology with purpose — especially in fields like agriculture, cybersecurity, and smart cities.
 ---
