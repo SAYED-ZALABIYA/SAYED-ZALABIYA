@@ -75,8 +75,12 @@ A Machine Learning-based system designed to classify network traffic as secure o
 Here are some of the certifications I’m proud of:
 
 * 🎓 IBM: IBM RAG and Agentic AI  – [Verify](https://www.coursera.org/account/accomplishments/specialization/certificate/KGFJY30OII6S)
-* 
+* 🎓 IBM: Fundamentals of AI Agents Using RAG and LangChain  – [Verify](https://www.coursera.org/account/accomplishments/verify/8OPRVS6OU74H)
+* 🎓 IBM: Generative AI Advance Fine-Tuning for LLMs  – [Verify](https://www.coursera.org/account/accomplishments/verify/Z7MXLG7PGAOP)
+* 🎓 IBM: Generative AI Engineering and Fine-Tuning Transformers  – [Verify](https://www.coursera.org/account/accomplishments/verify/E7CEU9YS4A57)
+* ☁️ Google Cloud Training Online: Introduction to Generative AI Learning Path  – [Verify](https://coursera.org/verify/specializat%20ion/PS24VJSXKWRV)
 * 🎓 Packt: Generative AI, LLMs, and Advanced Applications with Python – [Verify](https://www.coursera.org/account/accomplishments/verify/H7OVNT8W9NIO)
+* ☁️ Google Cloud Training Online: Introduction to Responsible AI – [Verify](https://www.coursera.org/account/accomplishments/verify/2QZQRE50CED3)
 * 🎓 IBM: Unsupervised Machine Learning (Apr 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/2NN9R0X5HNG2)
 * 🎓 IBM: Exploratory Data Analysis (Mar 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/PYBDIY48UJUG)
 * ☁️ Google Cloud: Production Machine Learning Systems (May 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/QBJ30E30ONMP)
