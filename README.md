@@ -101,10 +101,7 @@ Technical Skills
 Machine Learning & AI
 
 * Supervised Learning (SL), Unsupervised Learning, Machine Learning Algorithms
-* Deep Learning, Large Language Models (LLMs), Generative AI, LangChain, Artificial Neural Networks, 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Natural Language Processing (NLP), Text Mining
-
+* Deep Learning, Large Language Models (LLMs), Generative AI, LangChain, Artificial Neural Networks,Natural Language Processing (NLP), Text Mining
 * Classification and Regression Tree (CART), Regression Analysis, Ridge Regression
 * Machine Learning Algorithms (Random Forest, SVM, Decision Tree, Linear Regression, Ridge Regression)
 * Model Explainability (SHAP), Responsible AI Principles
