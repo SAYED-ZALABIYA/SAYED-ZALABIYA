@@ -33,10 +33,17 @@ availability.
 
 **Title**: *Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt*
 
-* Designed a Random Forest-based ML system to recommend optimal crops based on environmental and soil features.
-* Compared multiple algorithms (SVM, DT, LR) and validated with SHAP explainability.
-* Achieved a remarkable 100% F1-score, and 99.38% mean accuracy using 5-fold CV.
-* Published as part of my graduation work to support sustainable agriculture in Egypt.
+* Developed a Random Forest-based crop recommendation model tailored for Egypt’s 
+environmental and soil conditions, using datasets from FAO, Kaggle, and the Egyptian 
+Agricultural Research Center.
+* Applied advanced preprocessing (SMOTE, MinMaxScaler, Label Encoding) and feature 
+engineering to enhance model robustness.
+* Achieved 100% accuracy and F1-score of 1.00, validated via 5-fold cross-validation, 
+outperforming SVM, Decision Tree, and Linear Regression baselines.
+* Integrated SHAP explainability to highlight key environmental features (rainfall, humidity, soil 
+nutrients) influencing predictions. influencing predictions.
+*  Proposed a deployment-ready architecture for real-time agricultural decision-support systems.
+
 
 ---
 
