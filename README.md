@@ -99,8 +99,8 @@ Each course deepened my understanding and sharpened my practical skills in data 
 * ML Concepts: Overfitting mitigation, Cross-validation, Feature Engineering
 * Platforms: Google Cloud Platform (GCP), TensorFlow, MLOps basics
 * Soft Skills: Teamwork, Research Writing, Technical Communication
-** Technical Skills **
- Python, NumPy, Scikit-learn, TensorFlow, Jupyter Notebook, Google Colab, Git, GitHub
+Technical Skills 
+* Python, NumPy, Scikit-learn, TensorFlow, Jupyter Notebook, Google Colab, Git, GitHub
  Google Cloud Platform (GCP), Microsoft Azure, Hugging Face, Hybrid Cloud Computing, Data Pipelines
  System Architecture, Distributed Systems, Systems Design, Scalability
 Machine Learning & AI
