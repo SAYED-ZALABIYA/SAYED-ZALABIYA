@@ -81,11 +81,19 @@ Here are some of the certifications I’m proud of:
 * ☁️ Google Cloud Training Online: Introduction to Generative AI Learning Path  – [Verify](https://coursera.org/verify/specializat%20ion/PS24VJSXKWRV)
 * 🎓 Packt: Generative AI, LLMs, and Advanced Applications with Python – [Verify](https://www.coursera.org/account/accomplishments/verify/H7OVNT8W9NIO)
 * ☁️ Google Cloud Training Online: Introduction to Responsible AI – [Verify](https://www.coursera.org/account/accomplishments/verify/2QZQRE50CED3)
-* 🎓 IBM: Unsupervised Machine Learning (Apr 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/2NN9R0X5HNG2)
-* 🎓 IBM: Exploratory Data Analysis (Mar 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/PYBDIY48UJUG)
-* ☁️ Google Cloud: Production Machine Learning Systems (May 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/QBJ30E30ONMP)
-* 🧠 DeepLearning.AI: Regression & Classification (Apr 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/LCW3EK49UC62)
-* 🎓 IBM: Supervised ML: Classification and Regression  – [Verify](https://www.coursera.org/account/accomplishments/verify/A47IYW10XFH3)
+* 🌲 Stanford Online: Supervised Machine Learning: Regression and Classification – [Verify](https://www.coursera.org/account/accomplishments/verify/LCW3EK49UC62)
+* 🧠 DeepLearning.AI: Neural Networks and Deep Learning – [Verify](https://www.coursera.org/account/accomplishments/verify/FVAE7H4Z0V2C)
+* 🎓 IBM: Python for Data Science, AI & Development  – [Verify](https://www.coursera.org/account/accomplishments/verify/E2NJCD2XAEXR)
+* 🎓 IBM: Unsupervised Machine Learning  – [Verify](https://www.coursera.org/account/accomplishments/verify/2NN9R0X5HNG2)
+* ☁️ Google Cloud Training Online: Production Machine Learning Systems – [Verify](https://www.coursera.org/account/accomplishments/verify/QBJ30E30ONMP)
+* 🧠 DeepLearning.AI: Linear Algebra for Machine Learning and Data Science – [Verify](https://www.coursera.org/account/accomplishments/verify/NSJFVQ9KDTWY)
+* 🎓 IBM: Supervised ML: Classification   – [Verify](https://www.coursera.org/account/accomplishments/verify/A47IYW10XFH3)
+* 🎓 IBM: Supervised Machine Learning: Regression  – [Verify](https://www.credly.com/badges/0e8c9eca-bea3-44b7-8ec3-bcc12229fb02/)
+* 🎓 IBM: Exploratory Data Analysis  – [Verify](https://www.coursera.org/account/accomplishments/verify/PYBDIY48UJUG)
+* 🧠 DeepLearning.AI:Calculus for Machine Learning and Data Science  – [Verify](https://www.coursera.org/account/accomplishments/verify/K23V84DBYEO2)
+* ☁️ Google Cloud: Production Machine Learning Systems  – [Verify](https://www.coursera.org/account/accomplishments/verify/QBJ30E30ONMP)
+* 🧠 DeepLearning.AI: Regression & Classification  – [Verify](https://www.coursera.org/account/accomplishments/verify/LCW3EK49UC62)
+__
 Each course deepened my understanding and sharpened my practical skills in data science and machine learning pipelines.
 
 ---
