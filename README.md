@@ -74,14 +74,14 @@ A Machine Learning-based system designed to classify network traffic as secure o
 
 Here are some of the certifications I’m proud of:
 
-* 🎓 IBM: Supervised ML: Classification and Regression  – [Verify](https://www.coursera.org/account/accomplishments/verify/A47IYW10XFH3)
 * 🎓 IBM: IBM RAG and Agentic AI  – [Verify](https://www.coursera.org/account/accomplishments/specialization/certificate/KGFJY30OII6S)
+* 
 * 🎓 Packt: Generative AI, LLMs, and Advanced Applications with Python – [Verify](https://www.coursera.org/account/accomplishments/verify/H7OVNT8W9NIO)
 * 🎓 IBM: Unsupervised Machine Learning (Apr 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/2NN9R0X5HNG2)
 * 🎓 IBM: Exploratory Data Analysis (Mar 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/PYBDIY48UJUG)
 * ☁️ Google Cloud: Production Machine Learning Systems (May 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/QBJ30E30ONMP)
 * 🧠 DeepLearning.AI: Regression & Classification (Apr 2025) – [Verify](https://www.coursera.org/account/accomplishments/verify/LCW3EK49UC62)
-
+* 🎓 IBM: Supervised ML: Classification and Regression  – [Verify](https://www.coursera.org/account/accomplishments/verify/A47IYW10XFH3)
 Each course deepened my understanding and sharpened my practical skills in data science and machine learning pipelines.
 
 ---
