@@ -99,6 +99,45 @@ Each course deepened my understanding and sharpened my practical skills in data 
 * ML Concepts: Overfitting mitigation, Cross-validation, Feature Engineering
 * Platforms: Google Cloud Platform (GCP), TensorFlow, MLOps basics
 * Soft Skills: Teamwork, Research Writing, Technical Communication
+* Technical Skills
+ Python, NumPy, Scikit-learn, TensorFlow, Jupyter Notebook, Google Colab, Git, GitHub
+ Google Cloud Platform (GCP), Microsoft Azure, Hugging Face, Hybrid Cloud Computing, Data Pipelines
+ System Architecture, Distributed Systems, Systems Design, Scalability
+Machine Learning & AI
+ Supervised Learning (SL), Unsupervised Learning, Machine Learning Algorithms
+ Deep Learning, Large Language Models (LLMs), Generative AI, LangChain, Artificial Neural Networks, 
+Natural Language Processing (NLP), Text Mining
+ Classification and Regression Tree (CART), Regression Analysis, Ridge Regression
+ Machine Learning Algorithms (Random Forest, SVM, Decision Tree, Linear Regression, Ridge Regression)
+ Model Explainability (SHAP), Responsible AI Principles
+ Predictive Modeling, Statistical Machine Learning, Anomaly Detection, Dimensionality Reduction
+Data Processing & Analysis
+ Data Cleaning, Data Manipulation, Data Processing, Data Access, SMOTE, Label Encoding, Imputation, 
+Scaling, Normalization, GridSearchCV
+ Feature Engineering, Exploratory Data Analysis(EDA), Data Mining, Business Analytics
+ Performance Metrics, Performance Tuning, Sampling (Statistics)
+ Model Evaluation: Accuracy, Precision, Recall, F1-score
+Cloud & MLOps
+ MLOps(Machine Learning Operations)
+ Google Cloud Platform (GCP) Services
+ Hybrid Cloud Solutions, Deployment & Scalability Optimization
+ Microsoft Azure AI Services
+ Hugging Face Model Deployment
+Mathematical & Statistical Skills
+ Probability & Statistics, Statistical Hypothesis Testing
+ Linear Regression, Regression Analysis
+ Calculus, Statistical Modeling, Algorithms
+Soft Skills
+ Problem Solving & Critical Thinking
+ Analytical Thinking & Attention to Detail
+ Communication & Presentation Skills
+ Team Collaboration & Cross-functional Work
+ Time Management & Prioritization
+ Adaptability & Continuous Learning
+ Creativity & Innovation in AI Solutions
+ Research & Technical Documentation Writing
+ Decision Making under Uncertainty
+ Leadership in Technical Projects
 
 
 ---
