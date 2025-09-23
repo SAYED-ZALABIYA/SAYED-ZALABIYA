@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elsayed Abd El Rahman Mohammed</h1>
-<h3 align="center">Machine Learning Engineer | Data Analysis & Predictive Modeling Expert | Certified by IBM & Deep Learning.AI & Google Cloud</h3>
+<h3 align="center">Machine Learning Engineer | LLM & Generative AI Specialist</h3>
 
 <p align="center">
   <img alt="Coding" width="700" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" />
