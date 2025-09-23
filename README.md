@@ -25,8 +25,6 @@ production-ready models. Skilled in supervised & unsupervised learning, deep lea
 processing, model explainability (SHAP), and advanced AI pipelines. Passionate about developing scalable, ethical, 
 and high-impact AI systems across diverse industries, adapting quickly to any domain with sufficient data 
 availability.  
-
-🔬 My goal is to merge technology with purpose — especially in fields like agriculture, cybersecurity, and smart cities.
 ---
 
 ## 📜 My Research Paper
