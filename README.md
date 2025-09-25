@@ -59,7 +59,7 @@ This project is aligned with Egypt’s vision for digital agriculture and demons
 
 ## 🔐 Other Notable Projects
 
-### 🔎 Cyber Security Threat Detection Using Machine Learning (CyberScope AI)
+###  Cyber Security Threat Detection Using Machine Learning (CyberScope AI)
 
 Mar 2025 - May 2025
 
@@ -73,6 +73,20 @@ Responsibilities:
 * Designed a user-friendly system capable of real-time prediction and feedback.
 
 
+
+###  Academic Chatbot for El-Shorouk Academy – Faculty of Engineering
+
+October 2023 – Apr 2024
+
+Description: Developed an AI-powered chatbot to assist engineering students at El-Shorouk Academy. The bot acts 
+as a virtual Academic advisor, guiding students through the credit hour system, helping them build their class 
+schedules, and recommending Appropriate courses.
+
+Responsibilities:
+
+* Collected and cleaned dataset of academic information for training
+* Implemented intent recognition and response generation using NLP techniques
+* Designed a modular chatbot structure with clear training-data separation
 ---
 
 ## 🏅 Certifications
