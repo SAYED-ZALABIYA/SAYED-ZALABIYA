@@ -59,14 +59,19 @@ This project is aligned with Egypt’s vision for digital agriculture and demons
 
 ## 🔐 Other Notable Projects
 
-### 🔎 CyberScope AI — Cybersecurity Threat Detection
+### 🔎 Cyber Security Threat Detection Using Machine Learning (CyberScope AI)
 
-A Machine Learning-based system designed to classify network traffic as secure or under attack, and to identify the specific type of cyber threat.
+Mar 2025 - May 2025
 
-* Utilized supervised ML models to detect anomalies in network patterns.
-* Built a pipeline for classification using real network traffic datasets.
-* Successfully detects threats like DoS, Probe, U2R, and R2L.
-* Adds intelligence to modern network defense.
+Built a machine learning-based system to detect cyber threats and classify types of attacks. The model predicts whether a network is secure or under attack and identifies the nature of the attack (e.g., DoS, Probe, etc.).
+
+Responsibilities:
+
+* Preprocessed and analyzed the dataset using Python and Jupyter Notebook.
+* Trained and evaluated several ML models to identify network threats.
+* Integrated the model into interactive web interfaces using Flask and Gradio.
+* Designed a user-friendly system capable of real-time prediction and feedback.
+
 
 ---
 
