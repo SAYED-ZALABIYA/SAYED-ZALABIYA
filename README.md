@@ -155,18 +155,7 @@ Mathematical & Statistical Skills
 * Linear Regression, Regression Analysis
 * Calculus, Statistical Modeling, Algorithms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Soft Skills
 
-* Problem Solving & Critical Thinking
-* Analytical Thinking & Attention to Detail
-* Communication & Presentation Skills
-* Team Collaboration & Cross-functional Work
-* Time Management & Prioritization
-* Adaptability & Continuous Learning
-* Creativity & Innovation in AI Solutions
-* Research & Technical Documentation Writing
-* Decision Making under Uncertainty
-* Leadership in Technical Projects
 ---
 
 <h3 align="left">Connect with me:</h3>
