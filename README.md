@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elsayed Abd El Rahman Mohammed</h1>
-<h3 align="center">Machine Learning Engineer | LLM & Generative AI Specialist</h3>
+<h3 align="center">ML Engineer | MLOps & Scalable AI Systems | AWS, GCP</h3>
 
 <p align="center">
   <img alt="Coding" width="700" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" />
@@ -14,8 +14,25 @@
 
 ---
 ## ✨ About Me
-🎓Machine Learning and Generative AI Engineer with experience in applied research and production-grade ML systems. Graduation project owner and published researcher in ML-based crop recommendation systems. Skilled in end-to-end ML pipelines, model explainability (SHAP), LLM-based applications, and cloud deployment on GCP, Azure, and Hugging Face.
----
+Machine Learning Engineer specializing in designing and deploying production-ready AI systems. Experienced in building end-to-end ML pipelines — from data preprocessing and model training to scalable cloud deployment and monitoring on AWS and GCP.
+
+Core expertise includes:
+
+• Production ML systems (Docker, FastAPI, CI/CD)
+
+• Cloud deployment (AWS EC2, S3, ECR | GCP Vertex AI)
+
+• Experiment tracking & reproducibility (MLflow, DVC)
+
+• Generative AI & RAG-based systems
+
+• Model explainability (SHAP) & responsible AI
+
+• Data drift monitoring & scalable pipelines
+
+Published researcher in ML-based agricultural optimization and developer of advanced deep learning frameworks including physics-guided MRI reconstruction and diffusion-based architectures.
+
+Currently deepening expertise in MLOps, scalable AI infrastructure, and cloud-native ML systems to build robust, enterprise-grade AI solutions.
 
 ## 📜 My Research Paper
 
