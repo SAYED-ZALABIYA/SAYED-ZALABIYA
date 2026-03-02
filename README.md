@@ -54,17 +54,83 @@ Ver ify at: [Optimizing Crop Selection Using Machine Learning for Sustainable Ag
 
 ## 🎓 Graduation Project – Crop Recommendation System 🌱
 
-A full machine learning pipeline to recommend the best crops based on Egyptian agricultural data.
+This project was developed as my graduation project and resulted in a peer-reviewed research paper published in an Egyptian scientific journal, focusing on applying machine learning to support sustainable agriculture in Egypt. 
 
-**Details:**
+Problem Statement
 
-* 📊 Algorithms Used: Random Forest, Decision Tree, SVM, Linear Regression
-* 🧪 Features: Rainfall, Humidity, Temperature, Soil pH, NPK levels
-* 🔍 Preprocessing: SMOTE, MinMaxScaler, Label Encoding, GridSearchCV
-* ✅ Explainability: SHAP for interpreting feature importance
-* 🌟 Outcome: Achieved 100% F1-score with Random Forest
+Crop selection in Egypt is increasingly challenged by climate variability, soil degradation, and water scarcity. Traditional decision-making methods are no longer sufficient to handle complex, multi-factor environmental conditions.
 
-This project is aligned with Egypt’s vision for digital agriculture and demonstrates how AI can directly support farming decisions.
+Proposed Solution
+
+I designed and implemented a machine learning–driven crop recommendation system that predicts the most suitable crop based on environmental and soil parameters, including:
+
+Nitrogen (N), Phosphorus (P), Potassium (K)
+
+Soil pH
+
+Temperature
+
+Humidity
+
+Rainfall
+
+Methodology
+
+The study evaluated multiple supervised ML models:
+
+Decision Tree (DT)
+
+Support Vector Machine (SVM)
+
+Linear Regression (LR)
+
+Random Forest (Proposed Model)
+
+To ensure robustness and generalization, the pipeline included:
+
+Data normalization (MinMaxScaler)
+
+Label Encoding
+
+Class imbalance handling using SMOTE
+
+Feature engineering
+
+GridSearchCV with 5-fold cross-validation
+
+Model interpretability using SHAP
+
+Results
+
+The Random Forest model significantly outperformed all baselines:
+
+Accuracy: 100%
+
+Precision: 1.00
+
+Recall: 1.00
+
+F1-score: 1.00
+
+Cross-validation accuracy: 99.38%
+
+The model demonstrated strong generalization, resistance to overfitting, and clear interpretability, making it suitable for real-world agricultural decision-support systems.
+
+Results
+
+The Random Forest model significantly outperformed all baselines:
+
+Accuracy: 100%
+
+Precision: 1.00
+
+Recall: 1.00
+
+F1-score: 1.00
+
+Cross-validation accuracy: 99.38%
+
+The model demonstrated strong generalization, resistance to overfitting, and clear interpretability, making it suitable for real-world agricultural decision-support systems.
 
 ---
 
@@ -83,7 +149,7 @@ Responsibilities:
 * Integrated the model into interactive web interfaces using Flask and Gradio.
 * Designed a user-friendly system capable of real-time prediction and feedback.
 
-
+An extremely important note: this project is actually a graduation project for a group of my friends who are students at Al-Faraena Higher Institute. I’m the one who implemented the entire project from A to Z.
 
 ###  Academic Chatbot for El-Shorouk Academy – Faculty of Engineering
 
