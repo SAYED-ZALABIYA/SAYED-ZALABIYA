@@ -43,7 +43,7 @@ environmental and soil conditions, using datasets from FAO, Kaggle, and the Egyp
 Agricultural Research Center.
 * Applied advanced preprocessing (SMOTE, MinMaxScaler, Label Encoding) and feature 
 engineering to enhance model robustness.
-* Achieved 100% accuracy and F1-score of 1.00, validated via 5-fold cross-validation, 
+* Achieved 99% accuracy and F1-score of 1.00, validated via 5-fold cross-validation, 
 outperforming SVM, Decision Tree, and Linear Regression baselines.
 * Integrated SHAP explainability to highlight key environmental features (rainfall, humidity, soil 
 nutrients) influencing predictions. influencing predictions.
