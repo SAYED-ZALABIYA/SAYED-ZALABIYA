@@ -116,25 +116,33 @@ Cross-validation accuracy: 99.38%
 
 The model demonstrated strong generalization, resistance to overfitting, and clear interpretability, making it suitable for real-world agricultural decision-support systems.
 
-Results
-
-The Random Forest model significantly outperformed all baselines:
-
-Accuracy: 100%
-
-Precision: 1.00
-
-Recall: 1.00
-
-F1-score: 1.00
-
-Cross-validation accuracy: 99.38%
-
-The model demonstrated strong generalization, resistance to overfitting, and clear interpretability, making it suitable for real-world agricultural decision-support systems.
-
 ---
 
 ## 🔐 Other Notable Projects
+
+### ICDDGAN-Unrolled-ADMM-MRI-Reconstruction
+
+Nov 2025 – Present
+
+Physics-guided accelerated MRI reconstruction using ICDDGAN initialization and unrolled ADMM refinement.
+
+ICDDGAN + Unrolled ADMM for Accelerated MRI Reconstruction
+This repository implements a physics-guided MRI reconstruction framework that combines:
+
+ICDDGAN-based diffusion initializer
+Unrolled ADMM refinement
+Exact k-space data consistency
+Adversarial and diffusion-aware training
+The method reconstructs fully-sampled MRI images from undersampled multi-coil k-space measurements.
+
+Pipeline Overview
+Undersampled k-space input (fastMRI)
+Physics-guided ICDDGAN initialization
+Unrolled ADMM refinement with learned proximal operators
+Final physically consistent MRI reconstruction
+
+![WhatsApp Image 2025-12-19 at 12 20 04_46d43102](https://github.com/user-attachments/assets/4c21d7ea-eae4-4ba5-9455-ac5d3f974e0e)
+
 
 ###  Cyber Security Threat Detection Using Machine Learning (CyberScope AI)
 
