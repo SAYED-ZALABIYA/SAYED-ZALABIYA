@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elsayed </h1>
+<h1 align="center">Hi :), I'm ElSayed </h1>
 <h3 align="center">ML Engineer | MLOps & Scalable AI Systems | AWS, GCP</h3>
 
 <p align="center">
