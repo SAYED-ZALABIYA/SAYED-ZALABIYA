@@ -80,12 +80,3 @@ Mathematical & Statistical Skills
 * Linear Regression, Regression Analysis
 * Calculus, Statistical Modeling, Algorithms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayed-zalabiya&show_icons=true&locale=en&layout=compact" alt="sayed-zalabiya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayed-zalabiya&show_icons=true&locale=en" alt="sayed-zalabiya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayed-zalabiya&" alt="sayed-zalabiya" /></p>
-
-
-> “AI is not just about automation — it's about solving meaningful problems with intelligence and intention.”
