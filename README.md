@@ -2,7 +2,7 @@
 <h3 align="center">I really, really love neural networks :)</h3>
 
 <p align="center">
-  <img alt="Coding" width="750" src="https://github.com/user-attachments/assets/15a77c44-5ef2-409d-98ef-7422f8ad79e9" />
+  <img alt="Coding" width="800" src="https://github.com/user-attachments/assets/15a77c44-5ef2-409d-98ef-7422f8ad79e9" />
 
 </p>
 
