@@ -2,7 +2,7 @@
 <h3 align="center">I really, really love neural networks :)</h3>
 
 <p align="center">
-  <img alt="Coding" width="600" src="https://www.pinterest.com/pin/explore-the-intricate-world-of-brain-neurons--183451384812951350/" />
+  <img alt="Coding" width="700" src="https://www.pinterest.com/pin/explore-the-intricate-world-of-brain-neurons--183451384812951350/" />
 </p>
 
 <p align="center">
