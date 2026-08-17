@@ -2,7 +2,7 @@
 <h3 align="center">I really, really love neural networks :)</h3>
 
 <p align="center">
-  <img alt="Coding" width="700" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" />
+  <img alt="Coding" width="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BwdDcxcGN5angyYXNtOXhwanN4YTUwYXB6bHQ5ODg1eWQ2ZTB5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" />
 </p>
 
 <p align="center">
