@@ -2,7 +2,7 @@
 <h3 align="center">I really, really love neural networks :)</h3>
 
 <p align="center">
-  <img alt="Coding" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BwdDcxcGN5angyYXNtOXhwanN4YTUwYXB6bHQ5ODg1eWQ2ZTB5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" />
+  <img alt="Coding" width="600" src="https://giphy.com/explore/artificial-neural-networks" />
 </p>
 
 <p align="center">
